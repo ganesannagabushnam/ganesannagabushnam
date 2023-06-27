@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganesannagabushnam
+- 👋 Hi, I’m @GanesanNagabushnam
 - 👀 I’m interested in FOG Computing, Task Scheduling, Multiagent Reinforcement Learning & Real Time system
 - 🌱 I’m currently learning Federated Reinforcement Learning
 - 💞️ I’m looking to collaborate on Scheduling Research
